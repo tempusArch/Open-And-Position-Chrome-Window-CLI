@@ -1,4 +1,4 @@
-# Open-And-Position-Chrome-Windows-CLI
+# Open-And-Position-Chrome-Window-CLI
 Open multiple chrome windows, websites and position, minimize or maximize them
 
 ## Installation
